@@ -2,7 +2,7 @@
 My name is Chris but you can call me Chrinkus. I'm a hobbyist software developer with dreams of becoming an engineer.
 
 ## GitHub Stats
-![Chrinkus’ GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrinkus&theme=gruvbox&show_icons=true&count_private=true “Chrinkus’ GutHub Stats”)
+[![Chrinkus’ GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrinkus&theme=gruvbox&show_icons=true&count_private=true “Chrinkus’ GitHub Stats”)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrinkus&theme=gruvbox “Chrinkus’ Top Languages Card”)
 
