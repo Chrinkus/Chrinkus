@@ -6,8 +6,8 @@ I'm a hobbyist programmer from Canada who enjoys running fast code. I participat
 
 ## What I'm Working On
 
-* This year's [Advent of Code](https://adventofcode.com) event
-* [libsxc](https://github.com/Chrinkus/libsxc) - a personal C library of useful tools for AoC
+* App development with GTK4
+* Debugging C code with GDB
 * Robust project building with CMake
 * My [LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview) Certification
 
