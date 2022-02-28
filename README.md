@@ -8,7 +8,7 @@ I'm a hobbyist programmer from Canada who enjoys running fast code. I participat
 
 * App development with GTK4
 * Debugging C code with GDB
-* Robust project building with CMake
+* Robust project building with CMake and Meson
 * My [LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview) Certification
 
 ## Let's Work Together
