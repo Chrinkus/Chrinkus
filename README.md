@@ -4,9 +4,14 @@
 
 I'm a hobbyist programmer from Canada who enjoys running fast code. I participate in coding challenges for fun and make games for more fun. I'm also an advocate of free software and the Linux operating system.
 
-## What I'm Working On
+## Current Projects
 
 * App development with GTK4
+* Personal C Library for use with..
+* Advent of Code coding challenges
+
+## Developing Skills
+
 * Debugging C code with GDB
 * Robust project building with CMake and Meson
 * My [LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview) Certification
