@@ -6,7 +6,7 @@ I'm a hobbyist programmer from Canada who enjoys running fast code. I participat
 
 ## Current Projects
 
-* App development with GTK4
+* Linux System Programming with C
 * Personal C Library for use with..
 * Advent of Code coding challenges
 
